@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teacherarchan.vercel.app/sitemap.xml
